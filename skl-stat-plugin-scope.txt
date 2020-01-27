@@ -1,0 +1,35 @@
+SKL Statistics Plugin
+
+Features:
+
+VERSION 1.0
+BACKEND
+Add, delete, edit Matches
+	Enter team names
+	Enter match date
+	Chose game format(best of 1, best of 2, etc)
+	Generate tournament code per game and return in a list
+	Example:
+	Game 1: oasdghjoiasghdfasd
+	Game 2: oasdluhgalskdjghda
+
+
+FRONT END
+Show upcoming matches in a list with links to that Match Page
+Show past matches in a list with links to that Match Page
+Match Page
+	Team Logos
+	Team Totals
+	game break down for statistical information
+
+----------------------
+
+VERSION 1.5
+
+BACK END
+
+
+FRONT END
+Match Page
+	Click on players for tournament specific player statistics
+Tournament Statistics - Shows each players tournament statistics. 
