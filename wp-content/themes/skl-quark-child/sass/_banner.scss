@@ -2,49 +2,49 @@
   background-color: $black-lighter;
 
   &.gaming-news {
-    background: url('../img/banners/gaming-news-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/gaming-news-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #1c59f3, #00d8ff);
     background-size: cover;
   }
 
   &.game-review {
-    background: url('../img/banners/game-reviews-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/game-reviews-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #420ed9, #ff055d);
     background-size: cover;
   }
 
   &.movie-reviews {
-    background: url('../img/banners/movie-news-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/movie-news-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #3a8800, #60ec1b);
     background-size: cover;
   }
 
   &.geeky-news {
-    background: url('../img/banners/geeky-news-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/geeky-news-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #ff6600, #ffde00);
     background-size: cover;
   }
 
   &.e-sport {
-    background: url('../img/banners/esport-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/esport-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #21149e, #8314ff);
     background-size: cover;
   }
 
   &.pixel-videos {
-    background: url('../img/banners/pixel-videos-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/pixel-videos-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #0088af, #00ffea);
     background-size: cover;
   }
 
   &.forum-banner {
-    background: url('../img/banners/pixel-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/pixel-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #f30a5c, #1c95f3);
     background-size: cover;
   }
 
   &.shop-banner {
-    background: url('../img/banners/shop-banner.jpg') no-repeat center,
+    background: url('/wp-content/themes/skl-quark-child/img/banners/shop-banner.jpg') no-repeat center,
                 linear-gradient(45deg, #420ca2, #00d8ff);
     background-size: cover;
   }
@@ -82,7 +82,7 @@
 
 .promo-banner {
   min-height: 130px;
-  background: url('../img/banners/live-play-banner.jpg') no-repeat 0 0;
+  background: url('/wp-content/themes/skl-quark-child/img/banners/live-play-banner.jpg') no-repeat 0 0;
   background-size: cover;
   position: relative;
 

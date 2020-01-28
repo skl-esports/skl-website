@@ -904,13 +904,13 @@ input[type="radio"] {
   justify-content: space-between;
 
   &.login {
-    background: url('../img/section/login-bg.jpg') no-repeat center,
+    background: url('../wp-content/themes/skl-quark-child/img/section/login-bg.jpg') no-repeat center,
                 linear-gradient(45deg, #1c59f3, #00d8ff);
     background-size: cover;
   }
 
   &.register {
-    background: url('../img/section/register-bg.jpg') no-repeat center,
+    background: url('../wp-content/themes/skl-quark-child/img/section/register-bg.jpg') no-repeat center,
                 linear-gradient(45deg, #420ed9, #ff055d);
     background-size: cover;
   }

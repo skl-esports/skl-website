@@ -60,7 +60,7 @@
                     <!-- /TEAM NAME -->
 
                     <!-- TEAM COUNTRY -->
-                    <p class="team-country">United States</p>
+                    <p class="team-country">Alberta</p>
                     <!-- /TEAM COUNTRY -->
                   </div>
                   <!-- /TEAM INFO -->
@@ -91,7 +91,7 @@
                     <!-- /TEAM NAME -->
 
                     <!-- TEAM COUNTRY -->
-                    <p class="team-country">South Africa</p>
+                    <p class="team-country">Saskatchewan</p>
                     <!-- /TEAM COUNTRY -->
                   </div>
                   <!-- /TEAM INFO -->
@@ -179,7 +179,7 @@
           <!-- TEAM INFO -->
           <div class="team-info">
             <p class="team-name">TLW | <span class="highlight team-blue">Victory</span></p>
-            <p class="team-country">United States</p>
+            <p class="team-country">Alberta</p>
           </div>
           <!-- /TEAM INFO -->
         </div>
@@ -358,7 +358,7 @@
           <!-- TEAM INFO -->
           <div class="team-info">
             <p class="team-name"><span class="highlight red">Defeat</span> | RRH</p>
-            <p class="team-country">South Africa</p>
+            <p class="team-country">Saskatchewan</p>
           </div>
           <!-- /TEAM INFO -->
         </div>
@@ -1647,7 +1647,7 @@
           <!-- TEAM INFO -->
           <div class="team-info">
             <p class="team-name">TLW | <span class="highlight team-blue">Victory</span></p>
-            <p class="team-country">United States</p>
+            <p class="team-country">Alberta</p>
           </div>
           <!-- /TEAM INFO -->
         </div>
@@ -2401,7 +2401,7 @@
           <!-- TEAM INFO -->
           <div class="team-info">
             <p class="team-name">RRH | <span class="highlight red">Defeat</span></p>
-            <p class="team-country">South Africa</p>
+            <p class="team-country">Saskatchewan</p>
           </div>
           <!-- /TEAM INFO -->
         </div>
