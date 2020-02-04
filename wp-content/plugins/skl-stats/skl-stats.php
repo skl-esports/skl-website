@@ -19,16 +19,24 @@ defined('ABSPATH') or die('Error, you tried to open this plugin outside the word
 class SKLStatisticsPlugin{
     function __construct(){
         //construct is like init
+        add_action( 'init', array($this, 'custom_post_type'));
     }
 
     function activate(){
-
+        //generate a Custom post type
+        //generate a Custom categories
     }
     function deactivate(){
         
     }
     function uninstall(){
         
+    }
+
+
+    function custom_post_type(){
+        //the definition of the custom post type for games
+        register_post_type( 'game', ['public' => true, 'label'=>'Games'] );
     }
 }
 
